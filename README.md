@@ -2,7 +2,7 @@
 
 Olá, bem vindo ao meu livro de receitas :watermelon:
 
-- suco de melancia.
+- suco de melancia;
 
 
 
